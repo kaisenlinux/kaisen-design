@@ -1,0 +1,6 @@
+kaisen-design (1.0) kaisen-testing; urgency=medium
+
+  * Move all backgrounds, icons and theme here (replace kaisen-mate and
+    others)
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>  Sun, 22 Aug 2020 03:03:38 +0200

@@ -1,0 +1,21 @@
+Source: kaisen-design
+Priority: standard
+Section: kaisen-packages
+Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>
+Uploaders: Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>
+Standards-Version: 4.5.0
+Build-Depends: debhelper
+Homepage: https://kaisen-linux.org/kaisen
+
+Package: kaisen-design
+Architecture: all
+Priority: standard
+Replaces: kaisen-kde,
+	  kaisen-kde-design,
+	  kaisen-mate,
+	  kaisen-mate-design,
+	  kaisen-lxde,
+	  kaisen-lxde-design,
+	  kaisen-xfce,
+	  kaisen-xfce-design
+Description: All Kaisen Linux themes, icons and backgrounds
