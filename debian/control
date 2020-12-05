@@ -10,12 +10,4 @@ Homepage: https://kaisen-linux.org/kaisen
 Package: kaisen-design
 Architecture: all
 Priority: standard
-Replaces: kaisen-kde,
-	  kaisen-kde-design,
-	  kaisen-mate,
-	  kaisen-mate-design,
-	  kaisen-lxde,
-	  kaisen-lxde-design,
-	  kaisen-xfce,
-	  kaisen-xfce-design
 Description: All Kaisen Linux themes, icons and backgrounds
