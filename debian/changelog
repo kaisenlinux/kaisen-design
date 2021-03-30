@@ -1,3 +1,10 @@
+kaisen-design (1.6) kaisen-packages; urgency=medium
+
+  * Update mail on control file
+  * Update to 1.6
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Tue, 30 Mar 2020 10:19:26 +0200
+
 kaisen-design (1.5) kaisen-packages; urgency=medium
 
   * Delete replaces in control file
