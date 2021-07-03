@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
 Name=Kaisen-Dark-Material
-Comment=Official Kaisen Linux Theme Dark Material Mode
+Comment=Developped by Daniel Ruiz. Originally called Flat-Remix-GTK-Red-Darkest-NoBorder.
 Encoding=UTF-8
 
 
@@ -9,5 +9,5 @@ Encoding=UTF-8
 GtkTheme=Kaisen-Dark-Material
 MetacityTheme=Kaisen-Dark-Material
 IconTheme=Kaisen
-CursorTheme=Adwaita
+CursorTheme=redglass
 ButtonLayout=menu:minimize,maximize,close

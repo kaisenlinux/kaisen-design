@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
 Name=Kaisen-Grey-Material
-Comment=Official Kaisen Linux Theme Grey-Material Mode
+Comment=Developped by Daniel Ruiz. Originally called Flat-Remix-GTK-Red-Dark.
 Encoding=UTF-8
 
 
@@ -9,5 +9,5 @@ Encoding=UTF-8
 GtkTheme=Kaisen-Grey-Material
 MetacityTheme=Kaisen-Grey-Material
 IconTheme=Kaisen
-CursorTheme=Adwaita
+CursorTheme=redglass
 ButtonLayout=menu:minimize,maximize,close

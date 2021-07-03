@@ -1,9 +1,17 @@
+kaisen-design (1.7) kaisen-packages; urgency=medium
+
+  * Update to 1.7
+  * Update all material themes
+  * Define redglass as default mouse pointer
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Sat, 03 Jul 2021 18:04:51 +0200
+
 kaisen-design (1.6) kaisen-packages; urgency=medium
 
   * Update mail on control file
   * Update to 1.6
 
- -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Tue, 30 Mar 2020 10:19:26 +0200
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Tue, 30 Mar 2021 10:19:26 +0200
 
 kaisen-design (1.5) kaisen-packages; urgency=medium
 
