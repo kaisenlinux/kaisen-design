@@ -1,3 +1,9 @@
+kaisen-design (1.8) kaisen-packages; urgency=medium
+
+  * Update to 1.8
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Mon, 02 Aug 2021 00:13:36 +0200
+
 kaisen-design (1.7) kaisen-packages; urgency=medium
 
   * Update to 1.7
