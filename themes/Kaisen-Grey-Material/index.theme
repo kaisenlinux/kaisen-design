@@ -9,5 +9,5 @@ Encoding=UTF-8
 GtkTheme=Kaisen-Grey-Material
 MetacityTheme=Kaisen-Grey-Material
 IconTheme=Kaisen
-CursorTheme=redglass
+CursorTheme=breeze_cursors
 ButtonLayout=menu:minimize,maximize,close

@@ -1,3 +1,9 @@
+kaisen-design (2.0+kaisen3) kaisen-packages; urgency=medium
+
+  * Use Breeze as default cursor theme for all themes
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Fri, 03 Jun 2022 18:46:38 +0100
+
 kaisen-design (2.0+kaisen2) kaisen-packages; urgency=medium
 
   * Update start-here.png
