@@ -1,3 +1,9 @@
+kaisen-design (2.1) kaisen-packages; urgency=medium
+
+  * Add news backgrounds for the Kaisen 2.1 release!
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Wed, 08 Jun 2022 00:05:07 +0100
+
 kaisen-design (2.0+kaisen3) kaisen-packages; urgency=medium
 
   * Use Breeze as default cursor theme for all themes
