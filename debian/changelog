@@ -1,3 +1,11 @@
+kaisen-design (2.3) kaisen-packages; urgency=medium
+
+  * Bump the version to 2.3
+  * Add the 2.3 lightdm background
+  * Remove the executable bit for the Kaisen-Official theme
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Thu, 18 May 2023 17:24:46 +0100
+
 kaisen-design (2.2) kaisen-packages; urgency=medium
 
   * Bump the version to 2.2
