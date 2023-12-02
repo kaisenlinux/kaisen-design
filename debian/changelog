@@ -1,3 +1,10 @@
+kaisen-design (2.3+kaisen1) kaisen-packages; urgency=medium
+
+  * Add the new kaisen.png
+  * Add the new start-here. Use a SVG file instead of PNG file.
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Sun, 26 Nov 2023 22:35:06 +0100
+
 kaisen-design (2.3) kaisen-packages; urgency=medium
 
   * Bump the version to 2.3
