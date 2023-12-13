@@ -3,8 +3,9 @@ kaisen-design (2.3+kaisen1) kaisen-packages; urgency=medium
   * Add the new kaisen.png file
   * Add the new start-here. Use a SVG file instead of PNG file.
   * Add new wallpapers for the new logo. New wallpapers are in 4K and are JPG files.
+  * Add symlinks to keep backgrounds
 
- -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Mon, 11 Dec 2023 02:04:31 +0100
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Wed, 13 Dec 2023 01:47:44 +0100
 
 kaisen-design (2.3) kaisen-packages; urgency=medium
 
