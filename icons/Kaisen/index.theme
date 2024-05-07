@@ -3,7 +3,7 @@ Name=Kaisen
 Comment=Kaisen icon theme
 Inherits=breeze,gnome,hicolor,mate
 
-Example=kaisen-icon
+Example=kaisen-icon-tail-full-red
 
 FollowsColorScheme=true
 

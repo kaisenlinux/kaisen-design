@@ -2,8 +2,8 @@ Source: kaisen-design
 Priority: standard
 Section: kaisen-packages
 Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>
-Standards-Version: 4.5.1
-Build-Depends: debhelper
+Standards-Version: 4.6.2
+Build-Depends: debhelper-compat (= 13)
 Homepage: https://kaisenlinux.org
 
 Package: kaisen-design
