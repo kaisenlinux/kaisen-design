@@ -1,3 +1,9 @@
+kaisen-design (2.3+kaisen3) kaisen-packages; urgency=medium
+
+  * Add the news 3.0 Kaisen wallpapers
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Sat, 18 May 2024 03:56:42 +0200
+
 kaisen-design (2.3+kaisen2) kaisen-packages; urgency=medium
 
   * Add the new start-here.svg and kaisen icon
